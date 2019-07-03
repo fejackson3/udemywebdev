@@ -1,0 +1,22 @@
+{
+  "name": "udemywebdev",
+  "version": "1.0.0",
+  "description": "Projects from the Udemy web developer course",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fejackson3/udemywebdev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fejackson3/udemywebdev/issues"
+  },
+  "homepage": "https://github.com/fejackson3/udemywebdev#readme",
+  "dependencies": {
+    "browserify": "^16.2.2"
+  }
+}
